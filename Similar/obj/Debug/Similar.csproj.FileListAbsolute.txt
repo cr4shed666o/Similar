@@ -1,0 +1,13 @@
+C:\Users\cr4shed\source\repos\Similar\Similar\bin\Debug\Similar.exe.config
+C:\Users\cr4shed\source\repos\Similar\Similar\bin\Debug\Similar.exe
+C:\Users\cr4shed\source\repos\Similar\Similar\bin\Debug\Similar.pdb
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.csprojAssemblyReference.cache
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.Form1.resources
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.Properties.Resources.resources
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.csproj.GenerateResource.cache
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.csproj.CoreCompileInputs.cache
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.exe
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.pdb
+C:\Users\cr4shed\source\repos\Similar\Similar\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cr4shed\source\repos\Similar\Similar\obj\Debug\Similar.csproj.CopyComplete
+C:\Users\cr4shed\source\repos\Similar\Similar\bin\Debug\xNet.dll
